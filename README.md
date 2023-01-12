@@ -14,7 +14,7 @@ For more details of this domain generalization approach, please refer to the fol
 
 @article{Chen2023Decomposed,  
   author={Sentao Chen},  
-  journal={Knowledge-based Systems},   
+  journal={Knowledge-Based Systems},   
   title={Decomposed Adversarial Domain Generalization},   
   year={2023},   
   volume = {xxx},  
