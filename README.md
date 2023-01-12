@@ -1,4 +1,4 @@
-# Decomposed Adversarial Domain Generalization (DADG)
+# Decomposed Adversarial Domain Generalization
 
 This repository provides the Pytorch implementation for the work "Decomposed Adversarial Domain Generalization" published in Knowledge-based Systems, 2023. 
 
