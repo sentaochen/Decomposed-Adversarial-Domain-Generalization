@@ -15,11 +15,10 @@ For more details of this domain generalization approach, please refer to the fol
 @article{Chen2023Decomposed,  
   author={Sentao Chen},  
   journal={Knowledge-Based Systems},   
-  title={Decomposed Adversarial Domain Generalization},   
+  title={Decomposed adversarial domain generalization},   
   year={2023},   
-  volume = {xxx},  
-  pages={xxx},   
-  issn = {xxx},  
-  doi={xxx}   
+  pages={110300},   
+  issn = {0950-7051},  
+  doi={https://doi.org/10.1016/j.knosys.2023.110300}   
   }
  
