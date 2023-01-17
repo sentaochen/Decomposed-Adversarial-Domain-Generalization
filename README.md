@@ -16,7 +16,8 @@ For more details of this domain generalization approach, please refer to the fol
   author={Sentao Chen},  
   journal={Knowledge-Based Systems},   
   title={Decomposed adversarial domain generalization},   
-  year={2023},   
+  year={2023},
+  volumn={263},  
   pages={110300},   
   issn = {0950-7051},  
   doi={https://doi.org/10.1016/j.knosys.2023.110300}   
