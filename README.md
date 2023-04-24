@@ -10,7 +10,7 @@ Importantly, we show that under certain circumstances, the challenging adversari
 <img src="Model.jpg" width="50%">
 
 
-For more details of this domain generalization approach, please refer to the following KBS work: 
+For more details of this domain generalization approach, please refer to the following KBS paper: 
 
 @article{Chen2023Decomposed,  
   author={Sentao Chen},  
